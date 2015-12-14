@@ -1,4 +1,4 @@
-import pusherclient
+import pusher
 import time
 import logging
 import sys
@@ -21,7 +21,7 @@ class BitstampLogger:
         self.event = event
         self.log_file_fd = open(log_file_path, "a")
         self.log_file_reload_path = log_file_reload_path
-        self.pusher = pusherclient.Pusher(pusher_key)
+        self.pusher = pusher.Pusher(pusher_key)
         self.pusher.connection.logger.setLevel(logging.WARNING)
         self.pusher.connection.bind('pusher:connection_established', self.connect_handler)
         self.pusher.connect()
