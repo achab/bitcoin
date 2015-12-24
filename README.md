@@ -3,6 +3,8 @@ https://blockchain.info/
 
 https://bitcoin.org/en/bitcoin-core/
 
+https://bitcointalk.org/index.php
+
 ## Queries
 https://bitcoincharts.com/about/markets-api/
 
