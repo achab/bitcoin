@@ -1,5 +1,7 @@
-# References 
+## Useful websites
+https://blockchain.info/
 
+https://bitcoin.org/en/bitcoin-core/
 
 ## Queries
 https://bitcoincharts.com/about/markets-api/
@@ -16,8 +18,6 @@ https://www.bitstamp.net/s/examples/live_trades.html
 
 https://www.bitstamp.net/s/examples/live_order_book.html
 
-## Metrics to study BTC economy
-http://bitcoin.stackexchange.com/questions/9901/metrics-to-study-the-bitcoin-economy
 
 ## Volume
 http://bitcoincharts.com/charts/volumepie/
