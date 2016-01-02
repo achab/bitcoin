@@ -1,3 +1,3 @@
-# Understand behavior of buyers/sellers along the time
+# Understand behaviors along the time
 
 Use NMF on the tensor ```buyers X sellers X time```.
