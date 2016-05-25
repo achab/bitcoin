@@ -1,3 +1,7 @@
+# Data
+
+http://data.pystock.com/
+
 # Calibrate GARCH model
 
 http://www.quantatrisk.com/2014/10/23/garch11-model-in-python/
